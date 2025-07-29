@@ -38913,7 +38913,7 @@ A.Hk.prototype={
 G(a){var s=this.c,r=s*0.15,q=s*0.3
 return A.jb(new A.Xl(this,A.at(a,r,r,s*0.05,null),A.at(a,q,q,s*0.4,null)))}}
 A.Xl.prototype={
-$2(a,b){var s,r,q,p,o,n=null,m="assets/images/david_legend.png"
+$2(a,b){var s,r,q,p,o,n=null,m="assets/images/kale_shewanhe.png"
 A.fV()
 s=this.a
 r=t.p
@@ -39449,7 +39449,7 @@ r.su(r.a)
 s.e.au()}},
 $S:6}
 A.ajR.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="assets/images/skills2.png",i="assets/images/dev_meditate.png",h=b.c.a
+$2(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="assets/images/skills2.png",i="assets/images/kale_chill.png",h=b.c.a
 A.fV()
 s=l.a
 r=t.p
@@ -40085,7 +40085,7 @@ q=s.z
 return A.aj(p,A.cq(A.b([A.arn(40,q),new A.cZ(1,p),A.iZ(!1,!0,A.oI(B.Dm,q,p,30),p,!0,p,p,p,p,p,p,p,p,p,s.r,p,p,p,p)],t.p),B.w,B.p,B.t,p),B.l,p,p,p,p,p,p,p,B.D2,p,p,r.a.a)}else return s.anc(a)},
 $S:64}
 A.a8_.prototype={
-$0(){A.eW("assets/assets/images/Profile.pdf")},
+$0(){A.eW("assets/assets/images/kale_shewanhe_CV.pdf")},
 $S:0}
 A.a7Y.prototype={
 $0(){this.a.Q.$1(this.b[this.c].b)},
